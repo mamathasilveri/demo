@@ -1,7 +1,7 @@
 // This is for understanding git comment
 md means mark down
 
-// Steps
+// Stepscreated..
 
 1. We have created a Demo_folder in the host machine
 2. Then created a directory inside Demo_folder as Demo_html to create a project
